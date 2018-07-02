@@ -1,0 +1,2 @@
+cd HelloWorld/
+dotnet run
